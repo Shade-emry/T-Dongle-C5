@@ -1,4 +1,4 @@
-<h1 align = "center">🎯LilyGo T-Dongle-S3 🌐</h1>
+<h1 align = "center">🎯LilyGo T-Dongle-C5 🌐</h1>
 
 ## 🌈Introduction
 | board       | MCU      | WIFI   | BLE     | Display  storage  | Flash | RGB  | LED    | Button | USB   |
