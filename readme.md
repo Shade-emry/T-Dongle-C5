@@ -46,9 +46,9 @@ T-Dongle-C5
 
 | software   | supported | version                 |
 | ---------- | --------- | ----------------------- |
-| ESP-IDF    | ✅         | v5.4 or higher          |
+| ESP-IDF    | ✅         | v5.5 or higher          |
 | PlatfromIO | ❌         | Not currently supported |
-| Arduino    | ❌         | Not currently supported |
+| Arduino    | ✅         | v3.3.0 or higher        |
 
 ## 🚀FAQ 
 
