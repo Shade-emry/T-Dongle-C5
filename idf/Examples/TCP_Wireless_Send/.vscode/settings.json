@@ -1,0 +1,28 @@
+{
+    "C_Cpp.intelliSenseEngine": "default",
+    "idf.espIdfPathWin": "d:\\Software\\ESP-IDF\\Espressif\\frameworks\\esp-idf-v5.4\\v5.4\\esp-idf",
+    "idf.openOcdConfigs": [
+        "board/esp32c5-builtin.cfg"
+    ],
+    "idf.portWin": "COM112",
+    "idf.toolsPathWin": "d:\\Software\\ESP-IDF\\Espressif\\tools",
+    "files.associations": {
+        "bit": "c",
+        "compare": "c",
+        "limits": "c",
+        "new": "c",
+        "string.h": "c",
+        "task.h": "c",
+        "freertos.h": "c",
+        "sockets.h": "c",
+        "*.inc": "c",
+        "cstdlib": "c",
+        "fstream": "c",
+        "event_groups.h": "c",
+        "netdb.h": "c",
+        "complex": "c",
+        "format": "c",
+        "esp_system.h": "c",
+        "err.h": "c"
+    }
+}

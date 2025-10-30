@@ -1,0 +1,2 @@
+source E:/PRJ/ESP-IDF/ESP32-C5/T-Dongle-C5/Examples/TCP_Serial_Port_Assistant/build/gdbinit/symbols
+source E:/PRJ/ESP-IDF/ESP32-C5/T-Dongle-C5/Examples/TCP_Serial_Port_Assistant/build/gdbinit/connect
