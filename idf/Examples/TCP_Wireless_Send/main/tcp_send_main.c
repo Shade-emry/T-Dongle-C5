@@ -26,8 +26,8 @@
    If you'd rather not, just change the below entries to strings with
    the config you want - ie #define EXAMPLE_WIFI_SSID "mywifissid"
 */
-#define EXAMPLE_ESP_WIFI_SSID "your_ssid"
-#define EXAMPLE_ESP_WIFI_PASS "your_password"
+#define EXAMPLE_ESP_WIFI_SSID "xinyuandianzi"
+#define EXAMPLE_ESP_WIFI_PASS "AA15994823428"
 #define EXAMPLE_ESP_MAXIMUM_RETRY CONFIG_ESP_MAXIMUM_RETRY
 #define WIFI_MAX_STA_CONN 4
 

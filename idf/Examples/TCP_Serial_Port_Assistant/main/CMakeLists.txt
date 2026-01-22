@@ -1,4 +1,4 @@
-set(srcs "t-dongle-c5-factory.c")
+set(srcs "tcp_serial_port_ast.c")
 
 idf_component_register(SRCS ${srcs}
                     INCLUDE_DIRS "."

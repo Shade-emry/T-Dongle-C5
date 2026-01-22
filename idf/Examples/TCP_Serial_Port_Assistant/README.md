@@ -29,8 +29,6 @@ TCP command: BRIGHTNESS_20 // Set the backlight brightness to 20
 | software   | supported | version        |
 | ---------- | --------- | -------------- |
 | ESP-IDF    | ✅         | v5.5 or higher |
-| PlatfromIO | ❌         |                |
-| Arduino    | ❌         |                |
 
 ## 🚀 Getting Started
 
