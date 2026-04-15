@@ -1,10 +1,3 @@
-* Fixed Spelling errors in directory structures
-* Added and replaced revised Technical Refrence Manuel from ESP32-C5 TRM (Pre-release v0.1) to ESP32-C5 TRM (Version 1.0)
-* Replaced Datasheets version 0.5 pre release with Datasheets Version 1.1
-
- 
-
-
 # ESP32-C5 Project Documentation
 
 This repository contains the latest technical specifications and directory structures for the ESP32-C5 project.
@@ -40,12 +33,12 @@ The following documentation and structural updates have been applied to align wi
 ---
 
 ## Repository Structure
-```/docs # Latest TRM and Datasheets
+/docs # Latest TRM and Datasheets
 /src # Hardware abstraction layers and sample code
-/resources # Reference diagrams and pinout maps```
+/resources # Reference diagrams and pinout maps
 
 
----
+
 
 ## Usage
 
@@ -55,7 +48,7 @@ Please ensure you are referencing **TRM Version 1.0** for all register-level dev
 
 Several bit mappings have changed since the **v0.1 pre-release**, and using outdated documentation may result in incorrect implementation.
 
----
+
 
 ## Notes
 
