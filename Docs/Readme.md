@@ -37,6 +37,10 @@ The following documentation and structural updates have been applied to align wi
   - /docs # Latest TRM and Datasheets
   - /src # Hardware abstraction layers and sample code
   - /resources # Reference diagrams and pinout maps
+  - /Hardware # Scimatics
+  - /Firmware # Firmware files for base system
+  - /arduino # Example code for Arduino
+  - /idf # Example code for ESP-IDF
 
 
 
