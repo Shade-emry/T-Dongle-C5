@@ -33,9 +33,10 @@ The following documentation and structural updates have been applied to align wi
 ---
 
 ## Repository Structure
-/docs # Latest TRM and Datasheets
-/src # Hardware abstraction layers and sample code
-/resources # Reference diagrams and pinout maps
+- Structure:
+  - /docs # Latest TRM and Datasheets
+  - /src # Hardware abstraction layers and sample code
+  - /resources # Reference diagrams and pinout maps
 
 
 
